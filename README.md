@@ -7,6 +7,7 @@ Week 12 Day 3 (next Wednesday): Application Deployed
 Week 12 Day 5 (next Friday): Learning Plan Project Presentations
 
 **WEEK1: GET INSPIRATIONS FROM EXERCISES ON MY PROJECT PLAN**
+**KEY RESOURCES: PLURALSIGHT JAVA BEGINNER COURSES (MAINLY 4)**
 
 **Week 1: Core Java Fundamentals**
 Day 1: Introduction and Basic Syntax
