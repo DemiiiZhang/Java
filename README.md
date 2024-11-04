@@ -7,9 +7,11 @@ Week 12 Day 3 (next Wednesday): Application Deployed
 Week 12 Day 5 (next Friday): Learning Plan Project Presentations
 
 **WEEK1: GET INSPIRATIONS FROM EXERCISES ON MY PROJECT PLAN**
+
 **KEY RESOURCES: PLURALSIGHT JAVA BEGINNER COURSES (MAINLY 4)**
 
 **Week 1: Core Java Fundamentals**
+
 Day 1: Introduction and Basic Syntax
 Topics to Cover: Introduction to Java, JVM, JDK, basic syntax, "Hello World" program.
 Practice: Write and run a simple "Hello World" program.
@@ -36,6 +38,7 @@ Practice: Create a program with methods for addition, subtraction, and multiplic
 Exercise: Implement a method that checks if a number is prime.
 
 **Week 2: Object-Oriented Programming and Advanced Basics**
+
 Day 6: Classes and Objects
 Topics to Cover: Creating classes, defining objects, constructors.
 Practice: Create a Book class with attributes and methods.
